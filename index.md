@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+# Katelyn Steinman's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Awesome Homework 0 Website
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am so excited to learn CS this year! I think this course is going to be a huge help...I always have felt a little lost in my previous CS classes because of how much they assume you know. However, I have learned that if I am persistant, I can still keep up with those that started further ahead than I did.
+
+Homework 0 is only the beginning of what's sure to be a great year.
 
 ### Markdown
 
