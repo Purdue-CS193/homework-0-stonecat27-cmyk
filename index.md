@@ -19,6 +19,6 @@ Homework 0 is only the beginning of what's sure to be a great year!
 
 Since it seems like _every time_ I compliment someone or something, I get accused of glazing them, I will state my case.
 
-1. I (am going to) change the theme even though the instructions made it seem like that would offend you
-2. I am an honest person--it gets my in trouble sometimes when I say whatever I am thinking
+1. I changed the theme even though the instructions made it seem like that would offend you
+2. I am an honest person--it gets me in trouble sometimes when I say whatever I am thinking
 3. I doubt you can find a single sentence on this page that is dishonest, unrealistic, or false
